@@ -105,7 +105,8 @@ def _upsert_rankings(ranked_list: list, job_id: str) -> None:
                 "job_id": job_id,
                 "rank": idx,
                 "total_score": cand["analysis"]["Relative Ranking Score"],
-                "candidate_name": file_name.replace(".pdf", ""),
+                # Strip any file extension to get a clean candidate name
+                "candidate_name": os.path.splitext(file_name)[0],
                 "status": DEFAULT_STATUS,
             }
         )
