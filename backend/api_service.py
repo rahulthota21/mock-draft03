@@ -253,9 +253,11 @@ async def get_status(job_id: str):
 async def export_results(job_id: str, format: str = "json"):
     jrank = os.path.join(PROCESSED_DATA_FOLDER, f"{job_id}_ranked_candidates.json")
     janal = os.path.join(PROCESSED_DATA_FOLDER, f"{job_id}_analysis.json")
-    file_path = jrank if os.path.exists(jrank) else janal
-
-    if not file_path:
+    if os.path.exists(jrank):
+        file_path = jrank
+    elif os.path.exists(janal):
+        file_path = janal
+    else:
         raise HTTPException(500, "No results to export.")
 
     if format.lower() == "json":
