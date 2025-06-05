@@ -1,0 +1,135 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills (not directly but indirect evidence via education and interests)"
+            ],
+            "Overall Analysis": "The resume does not immediately show direct experience in writing and editing professional CVs and cover letters, or research for resume optimization. However, the candidate has strong technical skills and a keen interest in AI and data science.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Good communication and teamwork skills (inferred due to technical project experience)"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 4,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Backend development",
+                "Spring Boot",
+                "Java",
+                "RESFul APIs",
+                "Object-oriented programming",
+                "REST APIs",
+                "Complex problem-solving",
+                "Algorithm optimization",
+                "Teamwork",
+                "Communication"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving",
+                "Time management",
+                "Attention to detail"
+            ],
+            "Overall Analysis": "The candidate has strong technical skills in backend development and object-oriented programming, which are not directly relevant to the CV Intern position but indicates an ability to learn and adapt quickly. The candidate has good soft skills in teamwork and communication.",
+            "Experience Relevance Score": 3,
+            "Projects Relevance Score": 2,
+            "Overall Match Score": 2,
+            "Final Score": 250
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "The candidate has a background in Electronics and Communication Engineering, which is not directly aligned with the role of a CV Intern. However, they have some relevant skills such as strong English writing and editing capabilities. Their projects and certificates show proficiency in data analytics and Python, which could be valuable in a CV writing role.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                {
+                    "Name": "IOT solutions for Senior Care",
+                    "Description": "Developed an IoT solution using ESP32 to monitor senior citizens with health metrics, GPS, and AI-based obstacle detection."
+                },
+                {
+                    "Name": "Audio Source Separation using Python and ML",
+                    "Description": "Developed a signal processing model using PyTorch and Librosa for isolating audio components from mixed sources."
+                }
+            ],
+            "Soft Skills": [
+                "Good communication and teamwork skills",
+                "Attention to detail and accuracy"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 6,
+            "Final Score": 400
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Good communication skills",
+                "Teamwork skills"
+            ],
+            "Overall Analysis": "Meenakshy S does not have direct experience in writing and editing professional CVs, but possesses strong writing and communication skills, attention to detail, and the ability to use MS Word and Google Docs. Her non-technical skills in time management, verbal and written communication, and active listening are relevant for the job.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 200
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "Krishna Bhagat does not possess any experience in the fields of writing, editing CVs, cover letters, research on industry keywords, or client communication. The resume heavily focuses on Computer Science and technical skills. This does not match the outlined role of a CV Intern.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 200
+        }
+    }
+]

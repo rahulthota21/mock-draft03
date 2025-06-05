@@ -1,0 +1,148 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "C",
+                "Python",
+                "Java",
+                "Machine Learning",
+                "JavaScript",
+                "HTML",
+                "CSS",
+                "Flask",
+                "SQL",
+                "POWERBI",
+                "TensorFlow",
+                "Scikit Learn",
+                "openCV",
+                "NumPy",
+                "Pandas",
+                "OCR"
+            ],
+            "Overall Analysis": "The applicant is a budding Computer Science Engineer with a strong technical background in various programming languages and tools relevant to Machine Learning and Data Analytics. However, some required skills like basic knowledge of MS Word and Google Docs, and a Bachelor\u2019s degree in English, Communication, HR, or related fields are missing. There is a lack of demonstrated proficiency in writing and editing, as well as experience in client communication and project management, which are key responsibilities for the CV Intern role.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project): Created an educational website offering Python and Java tutorials, featuring a built-in code editor for real-time code execution.",
+                "ANPR and ATCC For Smart Traffic Management System: Developed an intelligent traffic management system using Deep Learning for Automatic Number Plate Recognition (ANPR) and Automated Traffic Control System (ATCC)."
+            ],
+            "Soft Skills": [
+                "Communication",
+                "Teamwork"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Final Score": 450
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Backend Development",
+                "Spring Boot",
+                "Java",
+                "RESTful APIs"
+            ],
+            "Overall Analysis": "The candidate has a strong background in Computer Science and Engineering with hands-on experience in backend development. However, the job description for a CV Intern necessitates skills related to resume writing, editing, and client communication, which are not evident in the resume provided.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Problem-solving",
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 1,
+            "Final Score": 150
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "The resume does not align well with the job description for the CV Intern position. The candidate's background is focused on Electronics and Communication Engineering, which is not directly relevant to the responsibilities and skills required for the role. There is a lack of experience in writing and editing professional CVs, cover letters, and marketing to recruiters.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using excel)"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Good communication and teamwork skills"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Good communication and teamwork skills",
+                "Writing",
+                "Editing",
+                "Research",
+                "Document formatting",
+                "Client communication",
+                "Time Management"
+            ],
+            "Overall Analysis": "Meenakshy S has a background in Computer Science Engineering with a specialization in Artificial Intelligence. While her technical skills are strong, her non-technical skills such as time management, communication, and teamwork are also highlighted. Her educational background and projects do not directly align with the responsibilities of a CV Intern, particularly in writing and editing professional CVs and cover letters.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume does not significantly match the CV Intern position due to a lack of relevant skills and experience in writing and editing CVs, cover letters, and formatting documents. The resume primarily focuses on technical skills and projects related to computer science and software development.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Communication",
+                "Adaptability",
+                "Teamwork"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 2,
+            "Final Score": 225
+        }
+    }
+]

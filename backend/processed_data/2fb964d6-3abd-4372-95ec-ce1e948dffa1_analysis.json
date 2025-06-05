@@ -1,0 +1,153 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The resume does not closely match the job description for a CV Intern position. The focus is on technical skills and projects related to computer science and artificial intelligence, which do not align well with the responsibilities and required skills for the job.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Spring Boot",
+                "MySQL",
+                "Hibernate",
+                "REST APIs",
+                "Java",
+                "Backend Development",
+                "OOP"
+            ],
+            "Overall Analysis": "Aaditya Yadav's resume shows extensive technical skills in backend development, but lacks direct experience and skills relevant to the CV Intern role described. His educational background is in Computer Science and Engineering, which may not directly align with the requirements of the job which involves writing and editing professional CVs and cover letters.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project": "CarCaddy - Car Rental Automation System",
+                    "Tools Used": [
+                        "Spring Boot",
+                        "MySQL",
+                        "Hibernate",
+                        "REST APIs",
+                        "Maven"
+                    ],
+                    "Description": "Developed a scalable car rental management system using Spring Boot, MySQL, and Hibernate ORM. Integrated backend validation, designed optimized database schemas, and developed RESTful APIs for user authentication and system management. Implemented efficient error handling and debugging techniques across the system to ensure robustness.",
+                    "Relevance": "Technical management and API development skills are weakly relevant to CV writing and editing, but experience with backend tools and attention to detail may be transferable."
+                },
+                {
+                    "Project": "Delivery Route Optimization",
+                    "Tools Used": [
+                        "Java",
+                        "Eclipse IDE",
+                        "Java Swing"
+                    ],
+                    "Description": "Modified an algorithm to optimize delivery routes, minimizing travel distance and costs for multi-parcel deliveries. Applied advanced problem-solving techniques to achieve a more efficient and streamlined delivery process. Collaborated effectively with a team, demonstrating strong teamwork and communication skills.",
+                    "Relevance": "Problem-solving and team collaboration skills can be applied to CV writing and client communication, but the direct relevance to CV writing is low."
+                },
+                {
+                    "Project": "Medical Management System",
+                    "Tools Used": [
+                        "Java Swing",
+                        "XAMPP",
+                        "MySQL"
+                    ],
+                    "Description": "Streamlined inventory and sales management, improving the accuracy of tracking medicine details.",
+                    "Relevance": "Describes attention to detail and database management skills, but not directly relevant to CV writing."
+                }
+            ],
+            "Soft Skills": [
+                "Problem-Solving",
+                "Teamwork",
+                "Communication",
+                "Attention to Detail"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of Google Docs",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "Siddarth Saravanan has a background in Electronics and Communication Engineering with strong technical skills and an interest in digital communications and signal processing. He lacks direct experience in the required fields such as English, Communication, HR or related fields, but demonstrates attention to detail and basic knowledge of productive tools which are valuable skills for the CV Intern role.",
+            "Certifications & Courses": [
+                "Certified in Data Analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IoT solutions for Senior Care",
+                "Audio Source Separation using Python and ML"
+            ],
+            "Soft Skills": [
+                "Good communication and teamwork skills"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 3,
+            "Final Score": 525
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Matlab",
+                "Machine Learning",
+                "Deep Learning",
+                "Neural Networks",
+                "Data Structures",
+                "Algorithms",
+                "Natural Language Processing",
+                "Time Management",
+                "Communication Skills"
+            ],
+            "Overall Analysis": "The candidate has a strong technical background with skills in programming, machine learning, and deep learning. However, the job requires more specific skills related to CV writing, editing, and client communication, which are not prominent in the resume. The candidate's excellent academic performance and relevant projects showcase strong technical expertise but do not directly align with the responsibilities of a CV Intern.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Deep learning model to detect abusive comments in Tamil and Malayalam from YouTube"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Communication Skills"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 1,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "Krishna's resume is strong in technical skills but lacks direct experience in CV writing, editing, and industry-specific keyword research. Strong English writing skills are noted, but more experience in professional document formatting is needed.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Communication",
+                "Teamwork"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Final Score": 225
+        }
+    }
+]

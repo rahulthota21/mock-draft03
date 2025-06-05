@@ -1,0 +1,121 @@
+[
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Signal Processing",
+                "IoT",
+                "Data Analytics (Excel)"
+            ],
+            "Overall Analysis": "The candidate has a strong technical background in Electronics and Communication Engineering, with relevant experience in IoT and machine learning. However, the role requires specific skills in writing and editing CVs, understanding industry-specific keywords, and good communication skills, which are not explicitly mentioned in the provided resume.",
+            "Certifications & Courses": [
+                "Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Communication",
+                "Teamwork"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 5,
+            "Experience Relevance Score": 2,
+            "Final Score": 525,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "English writing and editing skills",
+                "Attention to detail",
+                "Communication and teamwork skills"
+            ],
+            "Overall Analysis": "Aaditya Yadav's resume does not significantly align with the CV Intern job description. His technical skills heavily lean towards software development, which do not support the core responsibilities of the CV Internship role, which require strong English proficiency, document formatting, and client communication skills.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Communication and teamwork skills"
+            ],
+            "Overall Match Score": 4.0,
+            "Projects Relevance Score": 2.0,
+            "Experience Relevance Score": 2.0,
+            "Final Score": 300.0,
+            "Relative Ranking Score": 57.14
+        }
+    },
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "The candidate has strong technical skills and educational background but lacks experience in writing and editing professional CVs and cover letters, which are key requirements for the CV Intern position. The candidate has good communication skills and teamwork experience but does not demonstrate any direct experience in the required industry-specific knowledge for writing and optimizing resumes.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Good communication and teamwork skills"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Final Score": 225,
+            "Relative Ranking Score": 42.86
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Research industry-specific keywords and trends for resume optimization",
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Communication",
+                "Teamwork"
+            ],
+            "Overall Analysis": "The candidate has a strong academic background in Computer Science and a variety of technical skills which include programming, machine learning, and data structures. However, the required job is more focused on soft skills and basic writing skills which the candidate possesses to some extent but needs to integrate more directly with the CV writing field.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Project not relevant"
+            ],
+            "Soft Skills": [
+                "Communication",
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0,
+            "Relative Ranking Score": 0.0
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The candidate's resume is highly technical, focused on computer science and software development, but does not strongly align with the skills and responsibilities outlined for the CV Intern position. The resume lacks soft skills and experience in writing, editing, and formatting CVs and cover letters, which are critical for the role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

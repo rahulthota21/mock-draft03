@@ -1,0 +1,148 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "The candidate does not exactly match the job description of a CV Intern due to a lack of direct experience in writing and editing CVs and cover letters. However, the candidate's excellent writing and teamwork skills could be valuable.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science for Engineers \u2013 IIT Madras with NPTEL",
+                "AWS Educate"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project) - Created an educational website with features aligned with the modern professional standards.",
+                "ANPR and ATCC For Smart Traffic Management System - Developed an intelligent traffic management system"
+            ],
+            "Soft Skills": [
+                "Good communication skills",
+                "Teamwork skills"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 2,
+            "Final Score": 600
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Object-oriented programming principles",
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "Backend development",
+                "Problem-solving",
+                "Database management",
+                "Tech-based projects",
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Analysis": "Despite Aaditya Yadav's strong background in computer science and software development, some of the key skills required for the CV Intern position, such as strong English writing and editing skills, attention to detail, and knowledge of MS Word and Google Docs, are not explicitly highlighted. Additionally, the job requires a Bachelor's degree in English, Communication, HR, or related fields, which Aaditya does not currently possess.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Microsoft Excel",
+                "Data Analytics"
+            ],
+            "Overall Analysis": "The candidate does not have a background in English, Communication, HR, or related fields and lacks relevant skills and experience for the CV Intern role. The candidate has a strong foundation in Electrical and Communication Engineering but does not demonstrate proficiency in writing, editing, or document formatting, which are essential for this role.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "Describe the technical impact of the project instead of the features",
+                "Explain how your role can transferable to the proposed task",
+                "Non-relevant to CV writing internship job description"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication Skills"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Attention to detail and accuracy (Inferred from Non-Technical Skills)",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Developed a comprehensive framework for early Alzheimer's disease detection by preprocessing EEG signals with wavelet-based adaptive filtering to reduce noise and artifacts.",
+                "Extracted and integrated features from time domain, frequency domain, and time-frequency domain to create a robust signal representation.",
+                "Implemented a CNN-based classification model to analyze EEG signals and achieve high diagnostic accuracy through advanced machine learning techniques.",
+                "Developed a deep learning model to detect abusive comments in Tamil and Malayalam from YouTube"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 0,
+            "Final Score": 150
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Research",
+                "Industry knowledge",
+                "Communication",
+                "Teamwork",
+                "Deadline management",
+                "MS Word",
+                "Google Docs"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume does not align well with the CV Intern job description. While Krishna has strong technical skills and project experience, the CV Intern role requires specific skills in writer and editing, MS Word and Google Docs, and industry-specific keyword research, which are not evident in the provided resume. Additionally, the resume reflects a lack of relevant educational background in English, Communication, HR, or related fields.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Collaboration",
+                "Communication",
+                "Adaptability",
+                "Deadline management"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 1,
+            "Final Score": 300
+        }
+    }
+]

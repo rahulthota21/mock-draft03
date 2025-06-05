@@ -1,0 +1,145 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "Scikit-learn",
+                "OCR",
+                "OpenCV",
+                "Flask",
+                "REST API",
+                "Docker",
+                "Git"
+            ],
+            "Overall Analysis": "Mahitha Kurrisaimahitha has a solid educational background in Computer Science and AI with a B.Tech degree and relevant technical skills. She has experience in Python, TensorFlow, and data processing libraries like NumPy and Pandas, which are crucial for the AI Engineer role. Her projects demonstrate her ability to work with machine learning models and techniques like ANPR and CNN. However, she does not have significant experience with cutting-edge AI/ML techniques, LLM-powered chatbots, or Docker deployments on AWS/GCP.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya: Created an educational website offering Python and Java tutorials, featuring a built-in code editor for real-time code execution. Technologies Used: HTML, CSS, JavaScript, Python, Flask, ACE API.",
+                "Smart Traffic Management System: Developed an intelligent traffic management system using ANPR and ATCC. Technologies Used: Python, OpenCV, TensorFlow, CNNs, OCR, YOLO Model."
+            ],
+            "Soft Skills": [
+                "Collaboration with software engineers",
+                "Communication"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 5,
+            "Final Score": 825
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Spring Boot",
+                "Java",
+                "REST APIs",
+                "MySQL",
+                "Backend Development"
+            ],
+            "Overall Analysis": "Aaditya Yadav has a strong background in backend development and software engineering with hands-on experience in Spring Boot, Java, and RESTful APIs. However, he lacks direct experience with Python, machine learning, and ML/DL frameworks like NumPy, Pandas, PyTorch, and TensorFlow, which are core requirements for the AI Engineer role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "None"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas"
+            ],
+            "Overall Analysis": "The candidate has relevant skills in Python and some ML concepts but lacks specific experience in model deployment and integration which are crucial for the job.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using excel)"
+            ],
+            "Relevant Projects": [
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Collaboration in a team",
+                "Innovation"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 5,
+            "Experience Relevance Score": 2,
+            "Final Score": 525
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Matlab",
+                "Machine Learning",
+                "Deep Learning",
+                "Natural Language Processing",
+                "CNN",
+                "Electroencephalogram (EEG)",
+                "Signal Processing",
+                "SQL",
+                "Rest",
+                "FastAPI",
+                "Flask"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Developed a deep learning model to detect abusive comments in Tamil and Malayalam from YouTube.",
+                "Developed a comprehensive framework for early Alzheimer's disease detection by preprocessing EEG signals with wavelet-based adaptive filtering to reduce noise and artifacts."
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 8,
+            "Projects Relevance Score": 9,
+            "Experience Relevance Score": 7,
+            "Final Score": 1200
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume highlights strong expertise in Java, Android development, and web technologies, which do not entirely match the required skills for the AI Engineer role. While Python is listed as a skill, there is no detailed experience or project showing proficiency in machine learning, data preprocessing, model training, or deployment, which are essential for the role. The resume lacks experience with needed tools such as NumPy, Pandas, PyTorch/TensorFlow, Scikit-learn, REST APIs, FastAPI/Flask, Docker, and Git. Additionally, there is no mention of experience with model lifecycle management, collaboration with backend systems, or cutting-edge AI/ML techniques.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Team collaboration",
+                "Adaptability"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    }
+]

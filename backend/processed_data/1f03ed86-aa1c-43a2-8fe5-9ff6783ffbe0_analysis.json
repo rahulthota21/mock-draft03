@@ -1,0 +1,168 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "Scikit-learn"
+            ],
+            "Overall Analysis": "Mahitha has a strong educational background in Computer Science and Engineering with a focus on AI. Her technical skills include Python, TensorFlow, Scikit-learn, and experience with various tools and libraries relevant to AI and ML. Her projects demonstrate hands-on experience with machine learning and deep learning models. However, some preferred skills and experiences like Docker, REST APIs (FastAPI/Flask), AWS/GCP deployments, and vector databases are missing.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "ANPR and ATCC For Smart Traffic Management System"
+            ],
+            "Soft Skills": [
+                "Good People Skills"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Final Score": 1120
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "MySQL",
+                "Hibernate",
+                "Object-Oriented Programming",
+                "Backend Development",
+                "Databse Optimization",
+                "Error Handling",
+                "Algorithm Optimization"
+            ],
+            "Overall Analysis": "The resume shows a focus on backend development and lacks significant experience in AI, ML, and DL technologies. The candidate's skills are predominantly in Java and its frameworks, not aligning well with the core requirements for the AI Engineer position.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Problem-Solving",
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 400
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "ESP32",
+                "AI-based obstacle detection",
+                "PyTorch",
+                "Librosa",
+                "Signal Processing",
+                "Digital Communication",
+                "Digital Signal Processing",
+                "CNN-based architectures"
+            ],
+            "Overall Analysis": "Siddarth Saravanan has a strong background in electronics and communication engineering with a notable interest in digital communication and signal processing. His projects demonstrate hands-on experience with IoT and machine learning, specifically in audio source separation using Python and machine learning. However, his experience does not directly align with the job requirements of an AI Engineer, particularly in machine learning workflows, ML/DL model deployment, and collaboration with software engineers. His skills are more aligned with electronic engineering and basic ML applications rather than AI or deep learning.",
+            "Certifications & Courses": [
+                "Certified in Data Analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Collaborative environment",
+                "Innovation"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 400
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Matlab",
+                "Machine Learning",
+                "Deep Learning",
+                "Neural Networks",
+                "Database Management Systems (DBMS)",
+                "SQL",
+                "Natural Language Processing",
+                "Data Structures",
+                "Algorithms",
+                "Signal Processing"
+            ],
+            "Overall Analysis": "Meenakshy S has a solid foundation in Python, machine learning, and deep learning, which are core requirements for the AI Engineer position. Her projects demonstrate hands-on experience with machine learning models and natural language processing. However, she lacks experience with specific tools and frameworks mentioned in the job description, such as NumPy, Pandas, PyTorch/TensorFlow, Scikit-learn, REST APIs, Docker, Git, and AWS/GCP. Additionally, there is no mention of building LLM-powered chatbots, fine-tuning transformers, deploying models via Docker, or creating CI/CD pipelines.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG",
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 3,
+            "Final Score": 800
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "C",
+                "JavaScript",
+                "Kotlin",
+                "MySQL",
+                "MongoDB",
+                "Git/GitHub",
+                "VS Code",
+                "Spring Boot",
+                "Hibernate",
+                "ReactJS"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project Name": "Music App",
+                    "Description": "Developed a music streaming app using Kotlin, integrating Deezer API for accessing a vast music library. Implemented Retrofit for efficient and scalable network communication with the API."
+                }
+            ],
+            "Soft Skills": [
+                "Effective Team Collaboration",
+                "Adaptive to New Technologies"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 5,
+            "Overall Analysis": "The resume largely emphasizes Java-based projects and programming skills, which do not directly align with the AI Engineer job description. While the applicant has some experience with Python and Git, the core ML/DL skills specified in the job description are not covered. The applicant's experience with real-time communication and API integration is relevant but not specific to ML workflows and AI/ML techniques. The overall match score is lower due to the lack of relevant experience and skills in ML/DL and AI technologies.",
+            "Final Score": 640
+        }
+    }
+]

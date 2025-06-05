@@ -1,0 +1,163 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "Scikit-learn",
+                "OpenCV",
+                "Machine Learning",
+                "Flask"
+            ],
+            "Overall Analysis": "The resume shows strong technical skills aligned with the job description, especially in Python and machine learning tools. However, there is a lack of specific experience with certain preferred skills (like API integration, Docker, and GitHub Actions). The candidate has relevant projects and certifications but may need to gain some additional experience in specific areas to fully meet the job requirements.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project)",
+                "ANPR and ATCC For Smart Traffic Management System"
+            ],
+            "Soft Skills": [
+                "Good people skills",
+                "Teamwork and collaboration"
+            ],
+            "Projects Relevance Score": 7.5,
+            "Experience Relevance Score": 6.5,
+            "Overall Match Score": 7,
+            "Final Score": 1120.0
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "MySQL",
+                "Hibernate",
+                "OOP",
+                "Problem-solving"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 5,
+            "Experience Relevance Score": 4,
+            "Final Score": 720
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "PyTorch",
+                "Librosa",
+                "IoT",
+                "DSP (Digital Signal Processing),",
+                "CNN "
+            ],
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Collaboration"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 3,
+            "Final Score": 720
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "PyTorch/TensorFlow",
+                "Scikit-learn",
+                "ML workflows",
+                "Data preprocessing",
+                "Model training",
+                "REST APIs",
+                "Docker",
+                "Git"
+            ],
+            "Overall Analysis": "The candidate has a strong academic background in Computer Science with a focus on Artificial Intelligence. She has relevant skills in Python programming and machine learning. However, there is a lack of direct experience with specific technologies like FastAPI/Flask and understanding of the model lifecycle in production.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG",
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 5,
+            "Final Score": 1040
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "C",
+                "Python",
+                "JavaScript",
+                "Kotlin",
+                "Spring Boot",
+                "Hibernate",
+                "HTML",
+                "MySQL",
+                "MongoDB",
+                "React.js",
+                "Git/GitHub",
+                "VS Code",
+                "Eclipse",
+                "IntelliJ IDEA"
+            ],
+            "Overall Analysis": "Krishna Bhagat has a strong background in computer science with a focus on software development. He has experience in Java, Python, and several frameworks. However, his experience in AI/ML and related technologies is limited, despite proficiency in Python. His projects do not directly relate to ML/DL model development, data preprocessing, or model integration. No relevant experience with Docker, APIs (except basic usage in projects), or cloud platforms like AWS/GCP. Certification and course information is missing.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Collaboration",
+                "Adaptability",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 320
+        }
+    }
+]

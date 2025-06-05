@@ -1,0 +1,142 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Writing and editing skills",
+                "Attention to detail",
+                "Communication skills",
+                "Teamwork skills",
+                "Knowledge of MS Word and Google Docs"
+            ],
+            "Overall Analysis": "The candidate's resume highlights significant skills in computer science and AI, such as Python, Java, and machine learning, which are not directly relevant to the CV Intern role. The candidate has completed a Bachelor's degree in Computer Science and Engineering (AI), which does not align with the required field for this role. The resume focuses heavily on technical skills and projects, but lacks relevant experience and soft skills related to writing, editing, and client communication, which are crucial for the CV Intern position.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate (Salesforce)",
+                "Data Science For Engineers (IIT Madras with NPTEL(ELITE))",
+                "AWS Educate (Credly)"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project): Created an educational website offering Python and Java tutorials, featuring a built-in code editor for real-time code execution. Technologies Used: HTML, CSS, JavaScript, Python, Flask, ACE API."
+            ],
+            "Soft Skills": [
+                "Good English communication skills (implied from the resume)",
+                "Basic understanding of HTML, CSS, Python (for technical document creation)"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Backend Development",
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "Spring",
+                "MySQL",
+                "Hibernate ORM",
+                "Algorithm optimization",
+                "Software development cycle",
+                "Teamwork",
+                "Communication",
+                "Problem-Solving"
+            ],
+            "Overall Analysis": "The candidate's profile is heavily focused on technical skills related to backend development. This does not directly align with the job description for a CV Intern position, which emphasizes writing and editing skills, understanding industry requirements, and client communication. However, transferable skills such as attention to detail and teamwork could still be relevant.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-Solving"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The candidate does not have a direct background in English, Communication, HR, or related fields. The resume focuses heavily on technical skills related to Electronics and Communication Engineering, which is not directly aligned with the job description for a CV Intern. The candidate's objective and areas of interest are more aligned with engineering and technical fields rather than CV and cover letter writing.",
+            "Certifications & Courses": [
+                "Certified in Data Analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                {
+                    "Project Name": "IoT solutions for Senior Care",
+                    "Description": "Leveraged IoT technology using ESP32 to monitor senior citizens by integrating various sensors and modules, including health metrics monitoring, GPS, and AI-based obstacle detection."
+                },
+                {
+                    "Project Name": "Audio Source Separation using Python and ML",
+                    "Description": "Developed a signal processing model for isolating audio components from mixed audio sources, utilizing spectrum allocation techniques and CNN-based architectures with PyTorch and Librosa."
+                }
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Analysis": "Meenakshy has a strong academic background in Computer Science Engineering and Technical skills. However, the technical and non-technical skills listed do not strongly align with the requirements for a CV Intern position, which emphasizes English writing, editing, customer communication, and attention to detail. Although her projects reflect solid technical expertise, there is no evidence of relevant skills directly applicable to CV writing or editing.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Problem-solving",
+                "Team Collaboration",
+                "Attention to detail",
+                "Communication"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Communication",
+                "Collaboration",
+                "Time Management",
+                "Attention to detail"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 3,
+            "Final Score": 225
+        }
+    }
+]

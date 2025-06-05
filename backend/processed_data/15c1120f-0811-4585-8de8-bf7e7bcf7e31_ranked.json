@@ -1,0 +1,158 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "SQL",
+                "Jupyter",
+                "NumPy",
+                "Pandas",
+                "Scikit-learn",
+                "TensorFlow",
+                "Flask"
+            ],
+            "Overall Analysis": "The candidate exhibits strong technical skills in data science and machine learning, aligning well with the job description. The candidate has relevant projects and certifications that demonstrate experience in machine learning and data analysis. However, some specifications in the job description, such as XGBoost and specific cloud services like AWS S3, EC2, and Lambda, are not reflected in the resume, which may impact the overall match. Communication and problem-solving skills are well-demonstrated through various projects and achievements.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate, Salesforce",
+                "Data Science For Engineers, IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate, Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Educational Website)",
+                "ANPR and ATCC For Smart Traffic Management System"
+            ],
+            "Soft Skills": [
+                "Problem-solving",
+                "Communication",
+                "Attention to detail"
+            ],
+            "Overall Match Score": 8,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 9,
+            "Final Score": 1200,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Signal Processing",
+                "Data Structures/Algorithms",
+                "Natural Language Processing"
+            ],
+            "Overall Analysis": "The candidate has a strong educational background in Computer Science Engineering with a specialization in Artificial Intelligence. They possess good technical skills relevant to the job, including Python, machine learning, and deep learning. Their project work shows practical application of these skills, particularly in signal processing and natural language processing. However, there's a lack of experience with some specific tools and technologies mentioned in the job description, such as AWS, Docker, Flask/FastAPI, and TensorFlow.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG: Developed a CNN-based classification model to analyze EEG signals and achieve high diagnostic accuracy through advanced machine learning techniques.",
+                "Abusive Tamil and Malayalam Text Detection: Used XLM-RoBERTa embedding to detect abusive comments in Tamil and Malayalam from YouTube."
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 5,
+            "Experience Relevance Score": 6,
+            "Final Score": 825,
+            "Relative Ranking Score": 58.33
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "SQL",
+                "Jupyter",
+                "NumPy",
+                "Pandas",
+                "Scikit-learn",
+                "Machine Learning",
+                "Data Analysis",
+                "Feature Engineering",
+                "Data Integration",
+                "Time series forecasting",
+                "AI",
+                "Git"
+            ],
+            "Overall Analysis": "Siddarth has a B.Tech in Electronics and Communication Engineering from Amrita School of Engineering, with a GPA of 7.58/10. While his academic background is not directly in data science, he has shown an interest in related fields like digital communication and signal processing. His projects focus on IoT and audio source separation using machine learning, which demonstrate some relevant skills. However, there is no explicit mention of data science projects, certifications, or experience in the specified areas required by the job description.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "Audio Source Separation using python and ML",
+                "IOT solutions for Senior Care"
+            ],
+            "Soft Skills": [
+                "Problem-solving",
+                "Collaboration",
+                "Innovation",
+                "Attention to detail"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 5,
+            "Experience Relevance Score": 3,
+            "Final Score": 600,
+            "Relative Ranking Score": 33.33
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "SQL",
+                "NumPy",
+                "Pandas"
+            ],
+            "Overall Analysis": "Krishna Bhagat has strong technical skills, especially in Java and some familiarity with Python. He lacks specific experience with essential tools and libraries for data science such as Scikit-learn, XGBoost, TensorFlow, and machine learning techniques which are crucial for the Data Scientist role at NeuralCore Technologies. His projects do not directly align with the requirements of the job, focusing more on web and mobile application development rather than data science.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Problem-solving",
+                "Team Collaboration",
+                "Adaptability",
+                "Time Management"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 4,
+            "Final Score": 525,
+            "Relative Ranking Score": 25.0
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "Aaditya Yadav demonstrates strong technical skills and problem-solving abilities but lacks direct experience in key areas such as Python, SQL, machine learning libraries, and AWS. Additionally, his resume does not highlight any relevant projects or experiences related to data science.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Strong academic performance in Computer Science",
+                "Problem-solving abilities",
+                "Good analytical skills",
+                "Strong teamwork and communication abilities",
+                "Clear, concise communication."
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

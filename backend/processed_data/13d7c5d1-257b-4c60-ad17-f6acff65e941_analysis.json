@@ -1,0 +1,116 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The resume does not align well with the job description for a CV Intern position. The candidate's expertise is in Computer Science, Artificial Intelligence, and related technical fields, which do not directly relate to the required skills for CV writing and editing.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Communication skills"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Writing and editing skills",
+                "Attention to detail",
+                "Communication skills",
+                "Teamwork skills"
+            ],
+            "Overall Analysis": "The candidate has strong technical skills in computer science and software development, which are not directly relevant to the CV intern position. However, the candidate's communication and teamwork skills, along with their attention to detail, are transferable and valuable for the role. Additional training in writing and editing for professional documents would be beneficial.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System (Backends and data management related projects)",
+                "Delivery Route Optimization (Collaboration and analysis project)",
+                "Medical Management System (Data and management related project)"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Attention to detail",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The resume does not directly align with the CV Intern position described. The candidate is currently pursuing a B.Tech in Electronics and Communication Engineering, which does not match the qualifications specified in the job description, which requires a Bachelor\u2019s degree in English, Communication, HR, or related fields. Key skills such as writing and editing, which are critical for the role, are not listed or demonstrated in the provided resume. Additionally, there is no mention of experience with MS Word, Google Docs, or basic research on keyword trends, which are essential skills for the role. The projects listed are relevant to the candidate's field of study but do not pertain to the CV writing and editing skills required for the position.",
+            "Certifications & Courses": [
+                "Certified in Data Analytics (using Excel)"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Teamwork skills (from collaboration on projects)"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Natural Language Processing",
+                "Verbal and Written Communication",
+                "Attention to detail and accuracy"
+            ],
+            "Overall Analysis": "Meenakshy S has strong technical skills in areas like Programming (Python, Matlab), Machine Learning, and Natural Language Processing, which are not directly relevant to the CV Intern role. However, her non-technical skills such as Verbal and Written Communication, Time Management, and Active Listening are quite relevant. Additionally, her attention to detail and accuracy are transferable skills that can be beneficial for writing and editing professional CVs. Meenakshy's education background in Computer Science Engineering also shows her ability to understand different industry requirements. Overall, she has potential but may need some development in specific areas to fully align with the job description.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG - Relevant for showing machine learning and NLP skills, but not directly aligned with CV writing and editing."
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Decision Making"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 0,
+            "Final Score": 225
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Ability to understand different industry requirements",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume highlights technical skills primarily in computer science and software development. While some of his key skills and projects align with the job description, the resume lacks direct experience in writing and editing professional CVs and cover letters, which are core responsibilities of the CV Intern role. Additionally, his academic background and project experience do not directly relate to the required job skills, such as understanding different industry requirements and client communication.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Real-Time Group Chat Application: Developed a real-time group chat app with React, Spring Boot, and MongoDB for efficient data storage. Implemented WebSocket and STOMP Client for real-time bi-directional communication, enabling users to create and join chat groups via unique room IDs."
+            ],
+            "Soft Skills": [
+                "Effective communication",
+                "Meeting deadlines",
+                "Teamwork",
+                "Adaptability to new technologies"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 3,
+            "Final Score": 525
+        }
+    }
+]

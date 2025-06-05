@@ -1,0 +1,122 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Data Analytics",
+                "Python",
+                "Machine Learning",
+                "Frontend Development",
+                "Problem Solving"
+            ],
+            "Overall Analysis": "The resume does not match the job description well. The candidate is a Computer Science Engineer with strong technical skills but lacks the required writing, editing, and communication skills for a CV intern role.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project)",
+                "ANPR and ATCC For Smart Traffic Management System"
+            ],
+            "Soft Skills": [
+                "Communication",
+                "Problem Solving",
+                "Teamwork",
+                "Attention to Detail"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 1,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "MySQL",
+                "Hibernate",
+                "HTML",
+                "CSS"
+            ],
+            "Overall Analysis": "The candidate's resume does not align well with the requirements of the CV Intern position. While they have strong technical skills in computer science and backend development, these skills are not directly relevant to CV writing, editing, and client communication.",
+            "Certifications & Courses": [
+                "Infosys Springboard Internship"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "The candidate's education, skills, and projects do not closely align with the job description of a CV Intern. The candidate is pursuing a B.Tech in Electronics and Communication Engineering, which is not directly related to writing and editing CVs. The listed skills and projects primarily relate to technical engineering and data analytics rather than resume writing, editing, and client communication.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "English writing and editing skills",
+                "MS Word",
+                "Google Docs",
+                "Verbal and Written Communication"
+            ],
+            "Overall Analysis": "The candidate has a strong academic background in Computer Science and non-technical skills that could benefit certain aspects of the CV Intern role, but lacks direct experience in CV writing and editing. The resume does not explicitly demonstrate knowledge of resumes and cover letter writing, and has no experience with MS Word and Google Docs.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Self-Motivation",
+                "Decision Making"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Writing",
+                "Editing",
+                "MS Word",
+                "Google Docs",
+                "Communication",
+                "Teamwork"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume is primarily focused on technical skills related to Software Engineering and Software Development. While he has strong technical skills and project experience, the job description for a CV Intern requires skills in writing, editing, document formatting and understanding of industry-specific requirements for CVs, none of which are prominently featured in Krishna's resume. Additionally, the required qualifications (Bachelor's Degree in English, Communication, HR or related fields) are not satisfied here as Krishna is pursuing a Bachelor\u2019s degree in Computer Science and Engineering.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Collaboration",
+                "Time Management",
+                "Adaptability"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0
+        }
+    }
+]

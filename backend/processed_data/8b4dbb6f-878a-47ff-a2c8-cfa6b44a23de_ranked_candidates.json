@@ -1,0 +1,153 @@
+[
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Matlab",
+                "Machine Learning",
+                "Deep Learning",
+                "Neural Networks",
+                "SQL",
+                "Data Structures/Algorithms",
+                "Natural Language Processing",
+                "Wavelet transform",
+                "CNN",
+                "XLM-RoBERTa"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG (Convolutional Neural Networks, Data Preprocessing, Domain Transformation)",
+                "Abusive Tamil and Malayalam Text Detection (Deep Learning, NLP)"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Analysis": "The candidate has a strong background in machine learning and deep learning, with relevant experience in developing and deploying models. The candidate's projects demonstrate practical experience with CNN and NLP, which is valuable for the AI Engineer role. However, there is a gap in experience with API integrations (REST, FastAPI/Flask), Docker, and Git, which are core requirements for the job. The candidate's education and skills in AI align well with the job description, but additional experience in model deployment and CI/CD pipelines would be beneficial.",
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 6,
+            "Final Score": 820,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "Scikit-learn",
+                "OCR",
+                "OpenCV",
+                "Flask",
+                "Frontend Development"
+            ],
+            "Overall Analysis": "The resume demonstrates relevant skills and experience in Python, machine learning, and project management, which are essential for the AI Engineer role. However, there is a need for more direct experience in Machine Learning Workflows and Proficient in docker and Git which are required. The candidate has a foundational understanding of machine learning and has worked on relevant projects that show practical expertise. The candidate has completed certifications in AI and data science, which adds to their credibility.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project)",
+                "ANPR and ATCC For Smart Traffic Management System"
+            ],
+            "Soft Skills": [
+                "Good people skills"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 6,
+            "Final Score": 690,
+            "Relative Ranking Score": 79.69
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "IoT Solutions",
+                "ESP32",
+                "Health Metrics Monitoring",
+                "GPS System",
+                "AI-Based Systems"
+            ],
+            "Overall Analysis": "The candidate has relevant technical skills but lacks several key competencies required for the AI Engineer position. The resume does not thoroughly align with the job's core requirements, such as Machine Learning, Deep Learning, Docker, Git, and API development.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IoT solutions for Senior Care using ESP32",
+                "Audio Source Separation using Python and ML"
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 295,
+            "Relative Ranking Score": 17.97
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "JavaScript",
+                "Kotlin"
+            ],
+            "Overall Analysis": "Krishna Bhagat lacks some key skills required for the AI Engineer role, such as deep learning frameworks (PyTorch, TensorFlow), essential libraries like NumPy and Pandas, and experience with model lifecycle in production. While he has strong skills in Java, Python, and various development tools, these do not fully align with the job requirements.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Real-Time Group Chat Application"
+            ],
+            "Soft Skills": [
+                "Team collaboration",
+                "Problem-solving",
+                "Adaptability"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 295,
+            "Relative Ranking Score": 17.97
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "MySQL",
+                "Java Swing",
+                "Maven"
+            ],
+            "Overall Analysis": "Aaditya Yadav has strong backend development skills and experience in object-oriented programming principles. However, the resume lacks direct experience in AI/ML, Docker, Git, and other key technologies required for the AI Engineer role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Final Score": 180,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

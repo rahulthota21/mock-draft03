@@ -1,0 +1,202 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "SQL",
+                "Power BI",
+                "NLP",
+                "Deep Learning",
+                "Data Analytics",
+                "Communication Skills"
+            ],
+            "Overall Analysis": "Mahitha K meets most of the required skills and qualifications for the Data Scientist role. She has a strong foundation in Python, SQL, and data visualization tools like Power BI. Her experience with machine learning and deep learning, along with her practical projects, is particularly relevant. She also has certifications that align well with the job requirements.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project) \u2013 Focused on educational platform development with Python and Flask.",
+                "ANPR and ATCC For Smart Traffic Management System \u2013 Involved in traffic management system using Deep Learning, Python, TensorFlow, and CNNs."
+            ],
+            "Soft Skills": [
+                "Communication Skills",
+                "Problem-Solving"
+            ],
+            "Overall Match Score": 8,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 7,
+            "Final Score": 700,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Natural Language Processing",
+                "Data Structures",
+                "Algorithms",
+                "Neural Networks",
+                "EEG Signal Processing",
+                "Time Management",
+                "Communication (Verbal and Written)",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Analysis": "The candidate has a strong educational background with a relevant Bachelor's degree in Computer Science Engineering with an Artificial Intelligence specialization. They possess key technical skills that align well with the job description, such as Python, Machine Learning, Deep Learning, SQL, and Natural Language Processing. Their projects demonstrate expertise in EEG signal processing and abusive text detection, which are relevant to the field of data science. Non-technical skills are also well-rounded, indicating good interpersonal and problem-solving abilities.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG: Developed a CNN-based classification model for early Alzheimer's disease detection using EEG signals.",
+                "Abusive Tamil and Malayalam Text Detection: Used XLM-RoBERTa embedding for detecting abusive comments in Tamil and Malayalam from YouTube."
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 8,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 5,
+            "Final Score": 650,
+            "Relative Ranking Score": 87.5
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Librosa",
+                "PyTorch"
+            ],
+            "Overall Analysis": "Siddarth Saranavan has a background in Electronics and Communication Engineering and is currently pursuing his degree. He has experience with Python and Machine Learning through his projects but lacks direct industry experience in data science.",
+            "Certifications & Courses": [
+                "Certified in Data Analytics using Excel"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 3,
+            "Final Score": 450,
+            "Relative Ranking Score": 37.5
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "Aaditya Yadav is a Computer Science and Engineering student with a strong background in backend development and object-oriented programming. He has experience with tools like Spring Boot, MySQL, Hibernate, Java, and RESTful APIs, but his experience is primarily in software development rather than data science. While he has excellent problem-solving skills and technical knowledge, he lacks direct experience in data science-specific tasks such as data analysis, machine learning, and statistical tools.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project Name": "CarCaddy - Car Rental Automation System",
+                    "Skills Used": [
+                        "Spring Boot",
+                        "MySQL",
+                        "Hibernate",
+                        "REST APIs",
+                        "Maven"
+                    ],
+                    "Description": "Developed a scalable car rental management system, integrated backend validation, designed optimized database schemas, and implemented RESTful APIs for user authentication and system management."
+                },
+                {
+                    "Project Name": "Delivery Route Optimization",
+                    "Skills Used": [
+                        "Java",
+                        "Eclipse IDE",
+                        "Java Swing"
+                    ],
+                    "Description": "Modified an algorithm to optimize delivery routes, minimizing travel distance and costs for multi-parcel deliveries, and collaborated effectively with a team."
+                },
+                {
+                    "Project Name": "Medical Management System",
+                    "Skills Used": [
+                        "Java Swing",
+                        "XAMPP",
+                        "MySQL"
+                    ],
+                    "Description": "Streamlined inventory and sales management, improving the accuracy of tracking medicine details."
+                }
+            ],
+            "Soft Skills": [
+                "Problem-solving",
+                "Teamwork",
+                "Communication skills",
+                "Collaboration"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Final Score": 300,
+            "Relative Ranking Score": 0.0
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Java",
+                "JavaScript",
+                "Kotlin",
+                "MySQL",
+                "MongoDB",
+                "Git/GitHub",
+                "ReactJS",
+                "Spring Boot",
+                "Hibernate"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project Name": "Real-Time Group Chat Application",
+                    "Date": "Jan. 2025",
+                    "Description": "Developed a real-time group chat app with React, Spring Boot, and MongoDB for efficient data storage. Implemented WebSocket and STOMP Client for real-time bidirectional communication, enabling users to create and join chat groups via unique room IDs."
+                },
+                {
+                    "Project Name": "Music App",
+                    "Date": "Aug. 2024",
+                    "Description": "Developed a music streaming app using Kotlin, integrating Deezer API for accessing a vast music library. Implemented Retrofit for efficient and scalable network communication with the API. Implemented features like Play Next and Play Previous from a vast music library."
+                },
+                {
+                    "Project Name": "Air-Journey Game",
+                    "Date": "June 2024",
+                    "Description": "Developed a customized version of Flappy Bird using Java, featuring an airplane."
+                }
+            ],
+            "Soft Skills": [
+                "Collaboration",
+                "Communication",
+                "Problem-solving",
+                "Adapting to New Technologies"
+            ],
+            "Overall Analysis": "Krishna Bhagat has a strong technical background with a focus on Java and related technologies. He has experience with some relevant skills like Python and MongoDB, but lacks direct experience with key skills such as SQL, Tableau, or Power BI, and advanced statistical tools and machine learning. He has a passion for software development and problem-solving, which could be assets in a data science role. However, he has no explicit experience in data science or analytics.",
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Final Score": 300,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

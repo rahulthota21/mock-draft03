@@ -1,0 +1,142 @@
+[
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Natural Language Processing",
+                "Communication",
+                "Time Management",
+                "Creative Thinking"
+            ],
+            "Overall Analysis": "The candidate has a strong background in computer science with a focus on AI, machine learning, and natural language processing. They possess relevant technical skills that could be leveraged for certain aspects of the job, such as natural language processing for optimizing CV content. However, they lack direct experience in writing and editing professional CVs and cover letters.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Self-Motivation"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 3,
+            "Final Score": 666,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Good communication and teamwork skills",
+                "Proficiency in MS Excel"
+            ],
+            "Overall Analysis": "Siddarth Saravanan has a B.Tech in Electronics and Communication Engineering and is currently pursuing his degree. While he has a background in engineering, the skills he has acquired, such as attention to detail, writing and editing, and proficiency in MS Word and Excel, are transferable to the CV Intern position. His experience with MS Excel and interests in digital communication and digital signal processing could be helpful in understanding industry requirements and research. However, he lacks specific experience or qualifications in CV writing, cover letter editing, and understanding different industry requirements for resume optimization. He should consider gaining some experience or additional training in these areas to better match the job description.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Good communication and teamwork skills",
+                "Attention to detail and accuracy"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 4,
+            "Final Score": 592,
+            "Relative Ranking Score": 88.89
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Backend development",
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "Problem-solving",
+                "Database management",
+                "Java Swing"
+            ],
+            "Overall Analysis": "Aaditya Yadav is a motivated Computer Science and Engineering student with a strong background in backend development and programming. While Aaditya's technical skills are robust, the resume does not highlight relevant skills such as resume writing, using MS Word and Google Docs, or industry-specific knowledge for CV writing. Although Aaditya has a passion for solving complex problems and technical proficiency, the CV lacks direct experience in creating and editing professional CVs and cover letters, which is crucial for the CV Intern role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project": "CarCaddy - Car Rental Automation System",
+                    "Relevance": "Aaditya has experience in creating a backend management system using technologies like Spring Boot and MySQL, which demonstrates problem-solving skills and attention to detail. Not directly related to CV writing."
+                },
+                {
+                    "Project": "Delivery Route Optimization",
+                    "Relevance": "While it shows teamwork and problem-solving, but again, it's not directly relevant to CV writing."
+                },
+                {
+                    "Project": "Medical Management System",
+                    "Relevance": "This project demonstrates skills in database management and inventory tracking, which shows attention to detail, but it is not related to CV writing."
+                }
+            ],
+            "Soft Skills": [
+                "Strong oral and written English communication",
+                "Teamwork",
+                "Proven track record of meeting deadlines"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 3,
+            "Final Score": 518,
+            "Relative Ranking Score": 77.78
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "Krishna Bhagat\u2019s resume aligns moderately well with the CV Intern position. The resume highlights strong technical skills in computer science, which are not directly relevant to the role. The candidate's writing and editing skills are not explicitly mentioned, which are crucial for the CV Intern position. The projects showcase technical development abilities rather than resume optimization or editing skills.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 296,
+            "Relative Ranking Score": 44.44
+        }
+    },
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Writing, Editing",
+                "Basic MS Word, Google Docs",
+                "Communication",
+                "Teamwork"
+            ],
+            "Overall Analysis": "The candidate has strong technical skills in computer science and engineering, particularly in AI and machine learning. However, there is a notable lack of focus on English writing and editing skills, which are critical for the CV Intern role. The candidate's experience and projects do not directly align with the job requirements of writing and editing CVs.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Good teamwork skills"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

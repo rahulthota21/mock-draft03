@@ -1,0 +1,182 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "Scikit Learn",
+                "OCR",
+                "OpenCV",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Flask",
+                "SQL",
+                "POWERBI",
+                "Machine Learning",
+                "Data Analytics",
+                "CNNs",
+                "YOLO Model"
+            ],
+            "Overall Analysis": "The candidate has a relevant educational background and several certifications that align well with the role of an AI Engineer. They possess the essential technical skills required for the job, such as Python, TensorFlow, and Scikit-learn. However, there are no specific projects listed relating to deploying models on AWS/GCP or creating LLM-powered chatbots, which are preferred by the job description.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate"
+            ],
+            "Relevant Projects": [
+                {
+                    "Name": "Bug Vidhya",
+                    "Description": "Created an educational website offering Python and Java tutorials with a built-in code editor for real-time code execution.",
+                    "Technologies Used": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Python",
+                        "Flask",
+                        "ACE API"
+                    ],
+                    "GitHub Link": ""
+                },
+                {
+                    "Name": "ANPR and ATCC For Smart Traffic Management System",
+                    "Description": "Developed an intelligent traffic management system using Deep Learning for Automatic Number Plate Recognition (ANPR) and Automated Traffic Control System (ATCC).",
+                    "Technologies Used": [
+                        "Python",
+                        "OpenCV",
+                        "TensorFlow",
+                        "CNNs",
+                        "OCR",
+                        "YOLO Model"
+                    ],
+                    "GitHub Link": "https://github.com/kurrisaimahitha/Smart_Traffic_Management_System.git"
+                }
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 5,
+            "Final Score": 675
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Spring Boot",
+                "REST APIs",
+                "MySQL",
+                "Hibernate",
+                "Problem-Solving",
+                "Backend Development"
+            ],
+            "Overall Analysis": "The candidate has strong backend development skills and experience with REST APIs, but lacks direct experience in ML/DL, Python frameworks like NumPy, Pandas, PyTorch/TensorFlow and relevant ML model workflows. The projects are predominantly in backend development and general software engineering, not AI/ML focused.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System (Infosys Springboard Internship)",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 6,
+            "Final Score": 675
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Librosa",
+                "PyTorch",
+                "CNN-based architectures",
+                "Signal processing"
+            ],
+            "Certifications & Courses": [
+                "Certified in Data Analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "Audio Source Separation using Python and ML"
+            ],
+            "Soft Skills": [],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Overall Analysis": "The resume shows some relevant experience with Python and PyTorch, which are key skills for the position. The Audio Source Separation project demonstrates proficiency in signal processing and machine learning, but the overall experience and educational background do not fully align with the core requirements of the AI Engineer role. The candidate needs more extensive experience in deploying and managing ML/DL models in production, and more hands-on experience with frameworks like Flask/ FastAPI and Docker.",
+            "Final Score": 450
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "Natural Language Processing",
+                "Neural Networks",
+                "Signal Processing",
+                "Data Structures/Algorithms"
+            ],
+            "Overall Analysis": "Meenakshy S has a strong academic background with a Btech in Computer Science Engineering specializing in Artificial Intelligence. She demonstrates skills in machine learning, deep learning, and signal processing, which are closely related to the job requirements. She has relevant project experience with EEG signal processing and NLP tasks. However, she lacks direct experience with specific tools and platforms like REST APIs, FastAPI/Flask, Docker, and CI/CD pipelines, which are core requirements for the job. She also does not have experience with vector databases or specific preferences mentioned in the job description.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG",
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 6,
+            "Final Score": 975
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Spring Boot",
+                "ReactJS",
+                "JavaScript",
+                "React",
+                "MongoDB"
+            ],
+            "Overall Analysis": "Krishna Bhagat has a strong background in Computer Science with a focus on Java, JavaScript, and related technologies. However, key skills required for the AI Engineer role such as NumPy, Pandas, PyTorch/TensorFlow, Scikit-learn, and Docker are not explicitly mentioned. Experience with ML/DL models and related technologies is missing.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Real-Time Group Chat Application | HTML, Tailwind, JavaScript, Java, Spring Boot, React.js",
+                "Music App | Kotlin, API (Deezer), Git, Android Studio",
+                "Air-Journey Game | Java, Swing library"
+            ],
+            "Soft Skills": [
+                "Effective team collaboration",
+                "Meeting deadlines",
+                "Adaptability to new technologies"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 4,
+            "Final Score": 600
+        }
+    }
+]

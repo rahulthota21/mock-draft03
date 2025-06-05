@@ -1,0 +1,179 @@
+[
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Proficient in Python",
+                "Machine Learning",
+                "Signal Processing",
+                "IoT Technology",
+                "Python, PyTorch, and Librosa",
+                "Digital Communication and Digital Signal Processing",
+                "Pattern Recognition",
+                "Probability and Random variables",
+                "Analog and Digital Electronics",
+                "Communication Theory"
+            ],
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Communication Skills",
+                "Problem-Solving",
+                "Attention to Detail",
+                "Teamwork",
+                "Work Ethic",
+                "Attends to Deadlines"
+            ],
+            "Overall Analysis": "The candidate's profile is well-rounded with strong technical skills in electronics, communication, and IoT. They have relevant projects demonstrating their ability to apply these skills. The candidate also has demonstrated soft skills that would be relevant in the role.",
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 4,
+            "Final Score": 750,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Machine Learning",
+                "Python",
+                "Java",
+                "Data Analytics",
+                "Frontend Development"
+            ],
+            "Overall Analysis": "The candidate has a strong technical background in Computer Science and Engineering with a focus on AI and related technologies. However, the job description calls for skills in English writing and editing, which are not explicitly mentioned in the resume.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project) \u2013 Created an educational website offering Python and Java tutorials, featuring a built-in code editor for real-time code execution. Technologies Used: HTML, CSS, JavaScript, Python, Flask, ACE API.",
+                "ANPR and ATCC For Smart Traffic Management System \u2013 Developed an intelligent traffic management system using Deep Learning for Automatic Number Plate Recognition (ANPR) and Automated Traffic Control System (ATCC). Technologies Used :Python, OpenCV, TensorFlow, CNNs, OCR and YOLO Model. Github: https://github.com/kurrisaimahitha/Smart_Traffic_Management_System.git"
+            ],
+            "Soft Skills": [
+                "Attention to detail",
+                "Communication skills",
+                "Teamwork"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 375,
+            "Relative Ranking Score": 28.57
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Machine Learning",
+                "Deep Learning",
+                "SQL",
+                "Natural Language Processing",
+                "Data Structures/Algorithms",
+                "Time Management",
+                "Verbal and Written Communication"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG",
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Analysis": "The candidate's resume demonstrates strong technical skills, particularly in Machine Learning, Deep Learning, and Natural Language Processing, which are not directly relevant to the CV Intern job description. The candidate's projects are more aligned with technical and data science fields rather than CV writing and document formatting.",
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 3,
+            "Final Score": 375,
+            "Relative Ranking Score": 28.57
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Object-oriented Programming",
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "Spring  Framework",
+                "Backend Development",
+                "MySQL",
+                "Error Handling",
+                "Teamwork and Communication"
+            ],
+            "Overall Analysis": "The applicant appears to have a strong background in computer science and software development, with a significant emphasis on backend development and technical skills. However, the resume does not specifically highlight skills related to writing, editing, or research, which are core to the CV Intern role.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Sept. 2022 - Present",
+                "Delivery Route Optimization"
+            ],
+            "Soft Skills": [
+                "Teamwork and Communication"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300,
+            "Relative Ranking Score": 14.29
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "C",
+                "Python",
+                "JavaScript",
+                "Kotlin",
+                "MySQL",
+                "MongoDB",
+                "Git/GitHub",
+                "VS Code",
+                "Eclipse",
+                "Android Studio",
+                "IntelliJ IDEA",
+                "Spring Boot",
+                "Hibernate",
+                "ReactJS",
+                "Real-time Communication",
+                "WebSocket",
+                "STOMP Client",
+                "Retrofit",
+                "Network Communication"
+            ],
+            "Overall Analysis": "Krishna Bhagat is a Computer Science student with many technical skills but with limited relevance to the CV Intern position as described. While they have strong technical skills and experience in various programming languages and technologies, they lack the specific skills required for CV writing, editing, and industry-specific keyword research. The focus on technical projects rather than creative and communicative skills required for resume creation makes this resume less favorable for the position.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Strong teamwork skills",
+                "Effective communication",
+                "Meeting deadlines",
+                "Attention to detail",
+                "Adapting to new technologies"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 2,
+            "Final Score": 225,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

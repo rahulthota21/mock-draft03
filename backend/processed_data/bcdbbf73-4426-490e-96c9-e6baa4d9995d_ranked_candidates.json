@@ -1,0 +1,168 @@
+[
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "MySQL",
+                "Hibernate",
+                "Maven",
+                "Problem-Solving",
+                "Teamwork",
+                "Communication"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Problem-Solving",
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Analysis": "The resume does not directly address the requirements for a CV Intern position. The candidate has strong technical skills in backend development and some relevant soft skills, but lacks the specific knowledge in writing and editing professional CVs and cover letters, understanding different industry requirements, and basic knowledge of MS Word and Google Docs.",
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Final Score": 450,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "MATLAB",
+                "Machine Learning",
+                "Deep Learning",
+                "Neural Networks",
+                "Database Management Systems (DBMS)",
+                "SQL",
+                "Normalization",
+                "Signal Processing",
+                "Data Structures/Algorithms",
+                "Natural Language Processing"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project Name": "Alzheimer\u2019s Classification using EEG",
+                    "Description": "Developed a comprehensive framework for early Alzheimer's disease detection by preprocessing EEG signals with wavelet-based adaptive filtering to reduce noise and artifacts. Extracted and integrated features from time domain, frequency domain, and time-frequency domain to create a robust signal representation. Implemented a CNN-based classification model to analyze EEG signals and achieve high diagnostic accuracy through advanced machine learning techniques."
+                },
+                {
+                    "Project Name": "Abusive Tamil and Malayalam Text Detection",
+                    "Description": "Developed a deep learning model to detect abusive comments in Tamil and Malayalam from YouTube using XLM-RoBERTa embedding."
+                }
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Analysis": "While the candidate has a strong technical background with significant expertise in Machine Learning, Deep Learning, and Natural Language Processing, the job description necessitates strong English writing and editing skills, attention to detail, understanding of different industry requirements, and good communication and teamwork skills. The listed projects, such as 'Alzheimer\u2019s Classification using EEG' and 'Abusive Tamil and Malayalam Text Detection,' showcase advanced technical abilities. However, the resume does not provide any prior experience with professional CV writing, cover letter editing, or direct interaction within a team for feedback and improvement, which are essential for the CV Intern role.",
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Final Score": 450,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Data Analytics (using Excel)",
+                "Python",
+                "Machine Learning (ML)"
+            ],
+            "Overall Analysis": "The resume does not align well with the CV Intern job description. The candidate has a degree in Electronics and Communication Engineering, which is unrelated to the job requirements. The skills and projects listed are more suited to fields like Data Analytics, Machine Learning, and Technical Engineering rather than CV writing and editing.",
+            "Certifications & Courses": [
+                "Data-Analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IoT solutions for Senior Care",
+                "Audio Source Separation using python and ML"
+            ],
+            "Soft Skills": [
+                "Strong English writing and editing skills (unproven)"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Final Score": 225,
+            "Relative Ranking Score": 50.0
+        }
+    },
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Machine Learning",
+                "Data Analytics",
+                "Frontend Development",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Python",
+                "Flask",
+                "SQL",
+                "POWERBI",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "Scikit Learn",
+                "OCR",
+                "OpenCV",
+                "English writing",
+                "communication skills"
+            ],
+            "Overall Analysis": "The candidate has a strong background in Computer Science and Engineering with a focus on AI. While the candidate has excellent technical skills, there seems to be a significant mismatch between the candidate\u2019s skills and the job description. The role of a CV Intern requires strong English writing, editing, and communication skills, along with client interaction abilities. The candidate lacks experience and education relevant to writing and editing CVs and cover letters.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL (ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [
+                "None"
+            ],
+            "Soft Skills": [
+                "Good communication skills",
+                "Teamwork skills"
+            ],
+            "Overall Match Score": 3,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0,
+            "Relative Ranking Score": 0.0
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [],
+            "Overall Analysis": "Krishna Bhagat, a Computer Science student with a strong background in Java and related technologies, possesses many desirable skills such as solving complex problems, meeting deadlines, and working in team environments. However, there is a notable lack of skills in English writing and editing, basic knowledge of MS Word or Google Docs, and understanding of industry-specific requirements for CVs and cover letters.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Collaboration",
+                "Problem-Solving",
+                "Adaptability"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 0,
+            "Experience Relevance Score": 0,
+            "Final Score": 0,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "NumPy",
+                "Pandas",
+                "TensorFlow",
+                "OCR",
+                "OpenCV"
+            ],
+            "Overall Analysis": "The candidate has a solid background in various programming languages and relevant ML libraries. They have experience in building and deploying machine learning models, though the need for more specific experience with model optimization and deployment processes in production is noted. The candidate's projects and certifications align well with the core requirements of an AI Engineer role, but the resume lacks explicit mention of experience with Docker, Git, AWS/GCP, or REST APIs.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate",
+                "Data Science For Engineers \u2013 IIT Madras with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly",
+                "IEEE XTREME ENCODE(VIRTUAL)"
+            ],
+            "Relevant Projects": [
+                "ANPR and ATCC For Smart Traffic Management System (Deep Learning, TensorFlow, CNNs, OCR, YOLO Model)"
+            ],
+            "Soft Skills": [
+                "Machine Learning",
+                "Data Analytics",
+                "Frontend Development"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 3,
+            "Final Score": 825
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "MySQL",
+                "ORM (Hibernate)",
+                "Backend Development",
+                "Problem Solving",
+                "Teamwork"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System (Infosys Springboard Internship)",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Problem Solving",
+                "Teamwork",
+                "Communication"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 7,
+            "Final Score": 825
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "PyTorch",
+                "Librosa",
+                "IOT Solutions"
+            ],
+            "Overall Analysis": "Siddharth Saravanans resume highlights strong technical skills in Electronics and Communication engineering with a specific focus on digital communication and signal processing. His skills in Python, PyTorch, and Librosa are relevant to the AI Engineer role, especially for developing ML/DL models. However, he lacks experience in key requirements such as data preprocessing, model training, evaluation, deployment, and the whole ML workflow. His education and skills are quite different from typical requirements for this position, nevertheless his projects demonstrate his capabilities in exploring and developing models involving ML.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                {
+                    "Project Title": "IOT solutions for Senior Care",
+                    "Decription": "Leverages IoT technology using ESP32 to monitor senior citizens by integrating various sensors and modules."
+                },
+                {
+                    "Project Title": "Audio Source Separation using python and ML",
+                    "Description": "Developed a signal processing model for isolating audio components from mixed audio sources."
+                }
+            ],
+            "Soft Skills": [
+                "Collaboration"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 3,
+            "Final Score": 750
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Python",
+                "Machine Learning",
+                "Deep Learning",
+                "Data Structures",
+                "Algorithms",
+                "Natural Language Processing"
+            ],
+            "Overall Analysis": "Meenakshy S has strong fundamentals in Machine Learning, Deep Learning, and Natural Language Processing. Her projects show practical application of these skills, including neural networks and signal processing. She also has experience with data preprocessing and model deployment. However, she lacks experience with specific tools like TensorFlow/PyTorch and Docker, and she does not have any noted experience with CI/CD pipelines or vector databases. She does not have industry experience yet, which is a notable gap given the job requirements.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG: Developed a CNN-based classification model to analyze EEG signals which involves supervised learning and deep learning.",
+                "Abusive Tamil and Malayalam Text Detection: Used XLM-RoBERTa embedding for detecting abusive comments in Tamil and Malayalam, demonstrating NLP skills."
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 8,
+            "Experience Relevance Score": 3,
+            "Final Score": 825
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Python",
+                "JavaScript",
+                "MongoDB"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Real-Time Group Chat Application",
+                "Music App"
+            ],
+            "Soft Skills": [
+                "Collaboration",
+                "Adaptability",
+                "Deadline Management"
+            ],
+            "Overall Analysis": "Krishna Bhagat has a strong background in Java and related technologies, which is somewhat relevant to the AI Engineer role but does not fully match the key technical requirements. His experience with Python, which is essential for AI/ML, is limited, and he lacks specific project experience in ML/DL or AI technologies mentioned in the job description.",
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 6,
+            "Experience Relevance Score": 3,
+            "Final Score": 675
+        }
+    }
+]

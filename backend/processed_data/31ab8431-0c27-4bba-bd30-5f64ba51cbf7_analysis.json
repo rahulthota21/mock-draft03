@@ -1,0 +1,148 @@
+[
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong writing and editing skills",
+                "Attention to detail and accuracy",
+                "Communication skills",
+                "Teamwork skills",
+                "Basic knowledge of MS Word and Google Docs"
+            ],
+            "Certifications & Courses": [],
+            "Overall Analysis": "The candidate's primary expertise is in Computer Science and related fields including AI, Machine Learning. The resume lacks direct experience and training in CV writing, client communications, and project management required for the CV Intern role.",
+            "Relevant Projects": [
+                "Bug Vidhya (Group Project)",
+                "ANPR and ATCC For Smart Traffic Management System"
+            ],
+            "Soft Skills": [
+                "Good communication and teamwork skills",
+                "Basic knowledge of MS Word and Google Docs"
+            ],
+            "Overall Match Score": 4,
+            "Experience Relevance Score": 2,
+            "Projects Relevance Score": 3,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Object-Oriented Programming",
+                "Spring Boot",
+                "Java",
+                "RESTful APIs",
+                "Database Schema Design",
+                "Error Handling",
+                "Multi-Parcel Delivery Optimization",
+                "Teamwork",
+                "Communication Skills"
+            ],
+            "Overall Analysis": "Aaditya Yadav lacks relevant experience and skills for the role of CV Intern. The resume emphasizes technical skills related to software development rather than the required skills for CV optimization, writing, editing, and client communication.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "CarCaddy - Car Rental Automation System",
+                "Delivery Route Optimization",
+                "Medical Management System"
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication Skills",
+                "Problem-Solving"
+            ],
+            "Overall Match Score": 2,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 1,
+            "Final Score": 225
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Signals and circuit analysis",
+                "IoT and embedded systems",
+                "Python and ML",
+                "Machine Learning models",
+                "Spectrum allocation techniques"
+            ],
+            "Overall Analysis": "Siddarth Saravanan is an Electronics and Communication Engineering student with relevant skills in IOT and Machine Learning. However, the resume lacks direct mention of document editing, writing, or detailed knowledge in MS Word and Google Docs, which are key requirements for the job.",
+            "Certifications & Courses": [
+                "Certified in Data-analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IOT solutions for Senior Care",
+                "Audio Source Separation using Python and ML"
+            ],
+            "Soft Skills": [
+                "Collaboration and teamwork"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 7,
+            "Experience Relevance Score": 2,
+            "Final Score": 675
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Machine Learning",
+                "Deep Learning",
+                "Natural Language Processing",
+                "Verbal and Written Communication",
+                "Time Management",
+                "Relevant Industry Knowledge",
+                "Attention to Detail",
+                "Team Communication and Collaboration",
+                "Basic MS Word and Google Docs"
+            ],
+            "Overall Analysis": "The resume demonstrates strong technical skills in areas such as Python, Machine Learning, Deep Learning, and Natural Language Processing, which are not directly relevant to the CV Intern position described. The candidate's non-technical skills, such as time management and communication, are more aligned with the job description, but there is a lack of experience with MS Word, Google Docs, and specific English writing skills which are key requirements.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG",
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Verbal and Written Communication",
+                "Time Management",
+                "Ethical Responsibility"
+            ],
+            "Overall Match Score": 5,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 375
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Python",
+                "JavaScript",
+                "ReactJS",
+                "Spring Boot",
+                "Communicaiton",
+                "Teamwork",
+                "Basic knowledge of MS Word and Google Docs",
+                "MS Word",
+                "ReactJS",
+                "Kotlin"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume does not match the CV Intern job description very well due to their focus on technical skills related to computer science rather than CV writing, editing, or HR-related responsibilities. While they have relevant communication and teamwork skills, the technical skills do not align with the job requirements.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Real-time Group Chat Application and Music App, Air-journey Game"
+            ],
+            "Soft Skills": [
+                "Communication"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 2,
+            "Experience Relevance Score": 2,
+            "Final Score": 300
+        }
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "filename": "resume_c5bc434afc.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Java",
+                "Spring Boot",
+                "RESTful APIs",
+                "MySQL",
+                "Hibernate",
+                "Eclipse IDE",
+                "Java Swing",
+                "Maven",
+                "Backend Development"
+            ],
+            "Overall Analysis": "Aaditya Yadav has a strong background in computer science and engineering with hands-on experience in backend development and object-oriented programming. While his technical skills are highly relevant, the requirements for the CV Intern position heavily emphasize non-technical skills such as writing, editing, and communication. Aaditya lacks experience and certifications in writing and editing professional CVs, which is crucial for the role.",
+            "Certifications & Courses": [
+                "No Relevant Certifications/Experiences Provided"
+            ],
+            "Relevant Projects": [
+                {
+                    "Project Name": "CarCaddy - Car Rental Automation System",
+                    "Relevance": "Moderate",
+                    "Tools": [
+                        "Spring Boot",
+                        "MySQL",
+                        "Hibernate",
+                        "REST APIs",
+                        "Maven"
+                    ]
+                },
+                {
+                    "Project Name": "Delivery Route Optimization",
+                    "Relevance": "Low",
+                    "Tools": [
+                        "Java",
+                        "Eclipse IDE"
+                    ]
+                }
+            ],
+            "Soft Skills": [
+                "Teamwork",
+                "Communication",
+                "Problem-solving"
+            ],
+            "Overall Match Score": 6,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 5,
+            "Final Score": 600,
+            "Relative Ranking Score": 100.0
+        }
+    },
+    {
+        "filename": "resume_c7672a8cc6.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Machine Learning",
+                "Deep Learning",
+                "Python",
+                "Data Structures/Algorithms",
+                "Natural Language Processing",
+                "Time Management",
+                "Communication"
+            ],
+            "Certifications & Courses": [],
+            "Relevant Projects": [
+                "Alzheimer\u2019s Classification using EEG",
+                "Abusive Tamil and Malayalam Text Detection"
+            ],
+            "Soft Skills": [
+                "Time Management",
+                "Verbal and Written Communication",
+                "Active Listening",
+                "Creative Thinking",
+                "Decision Making",
+                "Self-Motivation",
+                "Resilience",
+                "Ethical Responsibility"
+            ],
+            "Overall Analysis": "The candidate's resume showcases strong technical skills in machine learning, deep learning, and natural language processing which are valuable for understanding industry-specific requirements and researching trends. Strong communication skills and attention to detail are present, making the candidate a suitable fit for tasks involving client communication and research. However, the candidate does not have experience in using MS Word and Google Docs, which are explicitly mentioned as required skills in the job description.",
+            "Overall Match Score": 7,
+            "Projects Relevance Score": 4,
+            "Experience Relevance Score": 2,
+            "Final Score": 450,
+            "Relative Ranking Score": 75.0
+        }
+    },
+    {
+        "filename": "resume_c87dc59925.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Ability to understand different industry requirements",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "Krishna Bhagat's resume is less relevant for the CV Intern position described in the job posting. While Krishna possesses strong technical and project management skills, the job description requires skills specifically related to CV writing, editing, and optimization, which are not showcased in Krishna's resume. Krishna's expertise in computer science and software development does not directly align with the responsibilities and qualifications outlined in the job description.",
+            "Certifications & Courses": [],
+            "Relevant Projects": [],
+            "Soft Skills": [
+                "Effective team collaboration",
+                "Meeting deadlines",
+                "Adapting to new technologies",
+                "Good communication skills"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 1,
+            "Experience Relevance Score": 5,
+            "Final Score": 450,
+            "Relative Ranking Score": 75.0
+        }
+    },
+    {
+        "filename": "resume_c73713db85.pdf",
+        "analysis": {
+            "Key Skills": [
+                "Strong English writing and editing skills",
+                "Attention to detail and accuracy",
+                "Basic knowledge of MS Word and Google Docs",
+                "Good communication and teamwork skills"
+            ],
+            "Overall Analysis": "The candidate has a strong technical background in Electronics and Communication Engineering, which is not directly related to the CV Intern position. However, some transferable skills such as attention to detail and communication skills are present. The candidate has relevant certifications and projects that showcase skills related to data analytics and signal processing, which are somewhat indirectly relevant.",
+            "Certifications & Courses": [
+                "Certified in Data-Analytics (using Excel)"
+            ],
+            "Relevant Projects": [
+                "IoT solutions for Senior Care",
+                "Audio Source Separation using Python and ML"
+            ],
+            "Soft Skills": [
+                "Good communication and teamwork skills"
+            ],
+            "Overall Match Score": 4,
+            "Projects Relevance Score": 3,
+            "Experience Relevance Score": 2,
+            "Final Score": 375,
+            "Relative Ranking Score": 62.5
+        }
+    },
+    {
+        "filename": "resume_c242f93b9d.pdf",
+        "analysis": {
+            "Key Skills": [
+                "English writing and editing skills"
+            ],
+            "Overall Analysis": "The resume does not closely match the job description for a CV Intern. The candidate is a Computer Science student with a strong background in technical skills, coding, and project experience, which are not directly relevant to the CV intern role. The candidate also does not have a background in English, Communication, HR, or related fields as required by the job.",
+            "Certifications & Courses": [
+                "Salesforce AI Associate \u2013 Salesforce",
+                "Data Science For Engineers \u2013 IIT MADRAS with NPTEL(ELITE)",
+                "AWS Educate \u2013 Credly"
+            ],
+            "Relevant Projects": [],
+            "Soft Skills": [],
+            "Experience Relevance Score": 0,
+            "Projects Relevance Score": 0,
+            "Overall Match Score": 1,
+            "Final Score": 0,
+            "Relative Ranking Score": 0.0
+        }
+    }
+]
